@@ -28,11 +28,11 @@ College ERP using MERN Stack
 12. Error display feature available with form validation
 14. Modern UI
 
-# Features to be added later in the future
+<!-- # Features to be added later in the future
 
 1. Mobile Responsiveness
 2. Sections other than academics
-3. More freedom to admin while adding new students,admins,faculties or subjects
+3. More freedom to admin while adding new students,admins,faculties or subjects -->
 
 # Preview
 
